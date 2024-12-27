@@ -11,7 +11,6 @@
 | Video Name                                                                         | Comments                                        | Posted  YYYY-MM-DD                                    |
 |:-----------------------------|:-----| :-----| 
 | Video Name | Resourcess | YYYY-MM-DD |
-| Sports Viz Sunday August 2024 | No Resources | 2024-09-05 |
 
 
 <!-- Visualisation -->
