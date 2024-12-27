@@ -36,10 +36,10 @@ Blogs are split by year and created date instead of channel playlist.
 | [cj-mayes.com](cj-mayes.com) | 2025 |  [2025 Youtube Folder](https://github.com/CJ-Mayes/Website-Tutorials/tree/main/2025%20Blogs) |  |
 
 <!-- Details -->
-## Blog Details
+## Video Details
 -  Each code repository may not have a fully scripted readme document, given the length of the video.
 <br />
-- Each blog follows the format "YYYY-MM-DD Video Name"
+- Each video follows the format "YYYY-MM-DD Video Name"
 <br />
 <!-- HOW TO DOWNLOAD XLSX File -->
 <details>
