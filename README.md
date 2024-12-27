@@ -33,7 +33,7 @@ Blogs are split by year and created date instead of channel playlist.
 
 | Repository                   | Year | Website Link                                                                             | Comments                                        |
 |:-----------------------------|:-----|:-----------------------------------------------------------------------------------------|:------------------------------------------------|
-| [cj-mayes.com](cj-mayes.com) | 2025 |  [2025 Youtube Folder](https://github.com/CJ-Mayes/Website-Tutorials/tree/main/2025%20Blogs) |  |
+| [cj-mayes.com](cj-mayes.com) | 2025 |  [2025 Youtube Folder](https://github.com/CJ-Mayes/Youtube-Tutorials/tree/main/2025%20Videos) |  |
 
 <!-- Details -->
 ## Video Details
