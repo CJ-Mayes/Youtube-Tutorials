@@ -7,9 +7,12 @@
 
 <!-- Details -->
 ## Video Details
--  Each code repository may not have a fully scripted readme document, given the length of the Video.
-<br />
-- Each video follows the format "YYYY-MM-DD Video Name"
+
+| Video Name                                                                         | Comments                                        | Posted  YYYY-MM-DD                                    |
+|:-----------------------------|:-----| :-----| 
+| Video Name | Resourcess | YYYY-MM-DD |
+| Sports Viz Sunday August 2024 | No Resources | 2024-09-05 |
+
 
 <!-- Visualisation -->
 ## Visualisations
